@@ -1,1 +1,3 @@
 test
+
+check -1 OK
